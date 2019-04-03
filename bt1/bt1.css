@@ -1,0 +1,33 @@
+*{
+
+}
+
+td.footer {
+    background: #5f5858;
+    border-top: 2px solid orange;
+}
+
+.menu1 {
+    background: #5f5858;
+    border-left: 8px solid orange;
+    border-right: 2px solid orange;
+}
+
+a {
+    color: #1f1f92;
+}
+.menu{
+	background: #5f5858;
+	border-bottom: 2px solid orange;
+}
+hr{
+	
+color: #5f5858;
+}
+
+.menu{
+	
+}
+table{
+	margin: auto;
+}
